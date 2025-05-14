@@ -1,0 +1,6 @@
+@Whatts.Services.WebApi_HostAddress = http://localhost:5009
+
+GET {{Whatts.Services.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
